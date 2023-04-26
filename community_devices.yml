@@ -2,7 +2,7 @@
 
 # samsung a5y17lte
 samsung_a5y17lte:
-  type: image
+  type: rootfs
   arch: arm64
   edition: phosh
   variant: phone

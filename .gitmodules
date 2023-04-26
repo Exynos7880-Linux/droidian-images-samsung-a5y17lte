@@ -3,7 +3,7 @@
 	url = git@github.com:Exynos7880-Linux/rootfs-templates.git
 [submodule "android-recovery-flashing-template"]
 	path = android-recovery-flashing-template
-	url = https://github.com/droidian-releng/android-recovery-flashing-template.git
+	url = git@github.com:Exynos7880-Linux/android-recovery-flashing-template.git
 [submodule "android-image-flashing-template"]
 	path = android-image-flashing-template
 	url = https://github.com/droidian-releng/android-image-flashing-template.git
