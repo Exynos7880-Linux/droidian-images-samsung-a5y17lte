@@ -12,3 +12,9 @@ samsung_a5y17lte:
   packages:
     - adaptation-samsung-a5y17lte
     - adaptation-samsung-a5y17lte-configs
+    - linux-bootimage-3.18-140-samsung-a5y17lte
+    - linux-bootimage-samsung-a5y17lte
+    - linux-headers-3.18-140-samsung-a5y17lte
+    - linux-headers-samsung-a5y17lte
+    - linux-image-3.18-140-samsung-a5y17lte
+    - linux-image-samsung-a5y17lte
