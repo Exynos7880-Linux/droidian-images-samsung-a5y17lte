@@ -18,12 +18,12 @@ Source: adaptation-samsung-a5y17lte
 Version: 0.0.0+git20230423171904.cfa1bf9.bookworm
 Architecture: arm64
 Maintainer: aymanrgab <aymanrar2c@gmail.com>
-Installed-Size: 59
+Installed-Size: 62
 Filename: ./adaptation-samsung-a5y17lte-configs_0.0.0+git20230423171904.cfa1bf9.bookworm_arm64.deb
-Size: 6244
-MD5sum: 909111d3f8e5cc3c53ad60b11b3786cb
-SHA1: d488caf29722d5fb8a0f8ee35a065cf6d22bc567
-SHA256: d0d614c6a917108f676800875a1e3dbb12d9844209323fb569e3d38b0efc713a
+Size: 7432
+MD5sum: 2fb931f868ee777832985a63661a80ea
+SHA1: 9fefc269d2c66b00f3677eccfac8f683d6b36f43
+SHA256: f8a29a8dee9b293726371ba98de5a9b9788bfae87008984553e20d7228e3b70c
 Section: metapackages
 Priority: optional
 Description: Community adaptation for samsung-a5y17lte - adaptation configurations
