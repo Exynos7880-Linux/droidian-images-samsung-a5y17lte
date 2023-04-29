@@ -10,7 +10,7 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
 
 ### First
 
-Download Droidian Image [here](https://github.com/Exynos7880-Linux/droidian-images-samsung-a5y17lte/releases/download/nightly)
+Download Droidian Image [here](https://github.com/Exynos7880-Linux/droidian-images-samsung-a5y17lte/releases/)
 
 From recovery open adb sideload mode (under advanced on TWRP) and run following commands on your computer replacing `YYYYMMDD` with the date of the Image:
 
